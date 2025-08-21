@@ -1,0 +1,29 @@
+
+body{
+    font-family: 'Times New Roman', Times, serif;
+    padding: 150px;
+}
+
+
+h1{
+    color: black;
+}
+
+label{
+    font-weight: bold;
+}
+
+#resultado{
+    margin-top: 15px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.verde{
+    color: green;
+
+}
+
+.vermelho{
+    color: red;
+}

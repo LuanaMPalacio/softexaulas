@@ -1,0 +1,22 @@
+body {
+font-family: Georgia, 'Times New Roman', Times, serif;
+background-color: antiquewhite;
+text-align: center;
+padding: 50px;
+}
+
+h1 {
+    color: cadetblue;
+}
+
+h2 { color: brown;
+
+}
+
+button:hover {
+    background-color: brown;
+    color: aliceblue;
+    border-radius:30px;
+    cursor:pointer;
+
+}
